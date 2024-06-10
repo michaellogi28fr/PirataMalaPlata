@@ -1,2 +1,2 @@
-# Platformer2D
+# Juego de Pirata Mala Plata - GODOT
 Juego Platformer 2D
